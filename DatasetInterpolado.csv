@@ -1,4 +1,4 @@
-﻿Fecha;TasaTPIB;EuriborM;ParoT;SalarioMedio;IPC;C.Alimentos;C.BebidasAl;C.ArticulosVestir;C.Vivienda;C.Mobiliario;C.Salud;C.Transporte;C.Comunicacion;C.Ocio;C.Educacion;C.Hoteles;C.OtrosBienes;C.TotalConsumo
+﻿Fecha;TasaTPIB;EuriborM;ParoT;SalarioMedio;IPC;CAlimentos;CBebidasAl;CArticulosVestir;CVivienda;CMobiliario;CSalud;CTransporte;CComunicacion;COcio;CEducacion;CHoteles;COtrosBienes;CTotalConsumo
 31/01/2002;0.4307;3.483;11.55;18601;-0.1;64496;19642;26345;72807;25021;14697;51780;11897;40016;6841;78497;43496;432783
 28/02/2002;0.4307;3.594;11.55;18601;0.1;64496;19642;26345;72807;25021;14697;51780;11897;40016;6841;78497;43496;432783
 31/03/2002;0.4307;3.816;11.55;18601;0.8;64496;19642;26345;72807;25021;14697;51780;11897;40016;6841;78497;43496;432783
